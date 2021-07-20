@@ -1,5 +1,5 @@
 # NetworkFlowAlgorithms
-Problem Description: I this project, we are conducting an empirical study to see which of the network flow algorithms is better than the others.
+Problem Description: In this project, we are conducting an empirical study to see which of the network flow algorithms is better than the others.
 Our goal in this project is to see if we can figure out for what kinds off graphs one algorithm des better than the others. 
 We will perform an empirical study and compare the following Network Flow Algorithms: Ford Fulkerson Algorithm, Scaling Ford Fulkerson Algorithm and Preflow Push Algorithm
 
